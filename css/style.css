@@ -1,0 +1,93 @@
+ 
+.bg-menu{
+    background-color: #00539B;
+}
+
+
+.navbar-nav a{
+    color: white !important;
+    font-size: larger;
+}
+
+.navbar-nav :hover{
+    background-color: #000000;
+}
+
+.dropdown-menu.show{
+    background-color: #00539B;
+}
+
+.dropdown-menu.show li a:hover {
+    background-color: #000000;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link-4{
+    font-weight: bold;
+    font-size:medium;
+    text-decoration: none;
+}
+
+.nav-link-2{
+    font-weight: bold;
+    font-size:medium;
+    text-decoration: none;
+}
+
+.nav-link-3{
+    font-weight: bold;
+    font-size:medium;
+    text-decoration: none;
+}
+
+p{
+    text-indent: 2em;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+}
+
+h2{
+    text-indent: 0.5em;
+    text-align: center;
+}
+
+h5{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer{
+    background-color: #00539B;
+}
+
+.margin-geral{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.bg-footer{
+    background-color: #00539B;
+    color: white;
+}
+
+.carousel-inner{
+    width: 700px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.nav-item{
+    margin: 0 20px;
+}
+
+.descricao-game{
+    color: red;
+}
